@@ -46,7 +46,7 @@ const formatTooltip = (value: number) => `${value} px`
   align-items: center;
   justify-content: center;
   height: 50px;
-  margin: 10px;
+  margin: 20px;
   text-align: center;
   border-radius: 4px;
   background: var(--el-color-primary-light-9);
